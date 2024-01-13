@@ -1,0 +1,180 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Alexander Prytula",
+    "label": "Software Engineer",
+    "image": "https://avatars.githubusercontent.com/u/5666255?s=400&u=4671d6fec3abe9e19e54c87efec0f109e33b0529&v=4",
+    "email": "isitinme88@gmail.com",
+    "summary": "Quality-focused software engineer. Eager to design and build beautiful, corporate complex systems. A T-shaped guy who easily accepts challenges from either technical or management fields. Always mentoring, helping, and happy to share knowledge and experience. As well as continue to learn and receive from others. Looking for a company and people who are passionate about what they're doing, always willing to shift edges, with exceptional standards to themselves.",
+    "location": {
+      "city": "Kyiv",
+      "countryCode": "UA"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/alexander-prytula-3ba434100/"
+      },
+      {
+        "network": "Github",
+        "username": "isitinme",
+        "url": "https://github.com/isitinme"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Sisense",
+      "location": "Kyiv (Ukraine)",
+      "position": "R&D Tech Lead",
+      "startDate": "2021-03-01",
+      "summary": "Sisense is a business intelligence software company headquartered in New York City. The company develops business intelligence software that allows users to access and analyze big data",
+      "highlights": [
+        "As a front-end developer was involved in UX refreshing campaign, which included replacing an obsolete client platform from Angular.js to React. Designed safe and solid migration flows within it. Helped to reduce the same bundle bytes size to be 3 times smaller.",
+        "As a back-end developer provided enhancements to the Administration business logic components, which basically were tied with almost all entities and functionalities the company has: Users, Emails, Analytics, Plugins, Customer storage, etc.",
+        "Contributed to the core internal packages dealing with MongoDB, RabbitMQ, and Apache Zookeeper. Helped to increase its reliability, code quality, and fixed a few severe bugs.",
+		"Participated in organizing and promoting a technical engineering movement inside the company to collect, estimate and build a roadmap to bridge different technical gaps.",
+		"Assisted team mates as a reviewer and mentor, taking leadership and facilitating team's overall performance."
+      ]
+    },
+	{
+      "name": "VistaCreate",
+	  "location": "Kyiv (Ukraine), Limassol (Cyprus)",
+	  "position": "Senior Software Engineer",
+	  "startDate": "2018-09-01",
+	  "endDate": "2021-03-01",
+	  "summary": "VistaCreate (Crello formerly) is a web-based powerful media editor.",
+	  "highlights": [
+		"Contributed to the payments domain, helping to design and build discounts, bonuses, referral programs, affiliates, subscription plans business logic. Which was used to successfully launch many marketing campaigns and eventually gain significant conversion.",
+		"Took responsibility for developing, maintaining, and monitoring the search domain of the back-end.",
+		"Incorporated search with our internal analytics, using Prometheus and Grafana to gather and analyze the efficiency of searching strategies we had applied.",
+		"Built full end-to-end features demanded by business needs, starting from React ending with Node.js, Golang, and Third-Party APIs.",
+		"Implemented and presented an innovative way of testing microservices' contracts, which brought a higher level of control and reliability to our back-end."
+	  ]
+	},
+	{
+		"name": "Carts Guru",
+		"location": "Kyiv (Ukraine), Barcelona (Spain)",
+		"position": "Node.js engineer",
+		"startDate": "2017-05-01",
+		"endDate": "2018-06-01",
+		"summary": "To provide e-merchants with one simple platform where they can create, distribute and analyze first-class marketing campaigns that boost revenue fast.",
+		"highlights": [
+			"Brought a lot of refactoring and increased the back-end code quality, whilst working on an automated customer onboarding system, which served to provide a convenient way to get the customer familiar with business features and configure all the tools to get ready for use.",
+			"Provided seamless migration of all the searchable entities back-end had between the different major versions of Elasticsearch. Gave appropriate unit and integration tests covering uncovered services.",
+			"Built and maintained a discount system integrated between PHP E-Commerce and Node.js sides.",
+			"Appointed as a Head of the product team in the Europe region."
+		]
+	},
+	{
+		"name": "Siteplus Pte Ltd",
+		"location": "Kyiv (Ukraine)",
+		"position": "Node.js engineer",
+		"startDate": "2017-01-01",
+		"endDate": "2017-06-01",
+		"summary": "A site-builder company.",
+		"highlights": [
+			"Collaborated between multiple back-end teams (PHP, Node.js )to build RESTfull services for a site-building platform.",
+			"Contributed to establishing a robust way of communication between services using both HTTP and WebSockets protocols.",
+			"Integrated cache system using Redis to improve performance."
+		]
+	},
+	{
+		"name": "DepositPhotos",
+		"location": "Kyiv (Ukraine)",
+		"position": "Front-end developer",
+		"startDate": "2016-08-01",
+		"endDate": "2017-01-01",
+		"summary": "Stock exchange marketplace",
+		"highlights": [
+			"Participated in building the main business application using Backbone, with gradual migration to React",
+			"Implemented different SEO and marketing demands"
+		]
+	}
+  ],
+  "volunteer": [
+    {
+      "organization": "Zengineers",
+      "position": "Teacher/Mentor",
+      "url": "https://www.facebook.com/zengineers.community",
+      "startDate": "2016-01-01",
+      "endDate": "2016-09-01",
+      "summary": "A community aimed to spread web development studies across for free."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Zaporizhzhya National Technical University",
+      "url": "https://zp.edu.ua/",
+      "area": "Materials science engineering",
+      "studyType": "Bachelor",
+      "startDate": "2005-07-01",
+      "endDate": "2009-06-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front-end development",
+      "keywords": [
+		  "React",
+		  "Redux",
+		  "Vue",
+		  "Angular.js",
+		  "Typescript",
+		  "Webpack",
+		  "Vite",
+		  "Sass"
+      ],
+	  "name": "Back-end development",
+	  "keywords": [
+	      "Node.js",
+		  "Typescript",
+		  "Golang",
+		  "MongoDB",
+		  "Elasticsearch",
+		  "Couchbase",
+		  "Redis",
+		  "Zookeeper",
+		  "RabbitMQ"
+	  ],
+	  "name": "DevOps",
+	  "keywords": [
+		  "Linux",
+		  "Docker",
+	      "Kubernetes",
+		  "Helm",
+		  "Gitlab CI",
+		  "Jenkins",
+		  "Groovy",
+		  "Bash"
+	  ],
+	  "name": "Analytics",
+	  "keywords": [
+		  "Prometheus",
+		  "Grafana",
+		  "Kibana",
+		  "OpenTelemetry",
+		  "Google Big Query"
+	  ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "B2"
+    },
+	{
+	  "language": "French",
+	  "fluency": "A1"
+	},
+	{
+      "language": "Ukrainian",
+	  "fluency": "native speaker"
+	}
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2024-01-12"
+  }
+}
