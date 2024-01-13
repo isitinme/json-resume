@@ -4,15 +4,20 @@
   "description": "",
   "main": "resume.json",
   "scripts": {
-    "render": "resumed --theme ${THEME:-jsonresume-theme-even}",
-	"validate": "resumed validate resume.json"
+    "html": "resumed --theme ${THEME:-jsonresume-theme-even}",
+	"pdf": "node index.js",
+    "validate": "resumed validate resume.json"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "jsonresume-theme-even": "^0.22.0",
-    "jsonresume-theme-latte": "^1.0.2",
+    "puppeteer": "^21.7.0",
     "resumed": "^3.0.1"
-  }
+  },
+  "devDependencies": {
+    "prettier": "^3.2.1"
+  },
+  "type": "module"
 }
