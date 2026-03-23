@@ -237,6 +237,7 @@
         "Node.js",
         "Typescript",
         "Golang",
+        "Python",
         "MongoDB",
         "Elasticsearch",
         "Couchbase",
@@ -289,7 +290,7 @@
   ],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-    "version": "v1.0.0",
-    "lastModified": "2024-01-12"
+    "version": "v1.0.4",
+    "lastModified": "2026-03-23"
   }
 }
