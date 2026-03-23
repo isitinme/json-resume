@@ -5,7 +5,7 @@
     "label": "Staff Software Engineer | Engineering Manager",
     "image": "https://avatars.githubusercontent.com/u/5666255?s=400&u=4671d6fec3abe9e19e54c87efec0f109e33b0529&v=4",
     "email": "isitinme88@gmail.com",
-    "summary": "Quality-focused software engineer and experienced technical lead. Eager to design and build beautiful, corporate complex systems. A T-shaped guy who easily accepts challenges from either technical or management fields. Always mentoring, helping, and happy to share knowledge and experience. As well as continue to learn and receive from others. Looking for a company and people who are passionate about what they're doing, always willing to shift edges, with exceptional standards to themselves.",
+    "summary": "Technical Lead specializing in Node.js and distributed backend systems, with a track record of designing scalable architectures and leading delivery in complex environments. Bridges deep technical execution with cross-team coordination, working closely with product and business stakeholders to turn ambiguous requirements into reliable, production-ready systems.",
     "location": {
       "city": "Kyiv",
       "countryCode": "UA"
@@ -59,9 +59,8 @@
       "summary": "Technical Lead in AI domain team",
       "highlights": [
         "Worked at the intersection of data science and product engineering, integrating LLM and vector database capabilities.",
-        "Designed and implemented key frontend, backend, and DevOps building blocks for the product.",
-        "Played a pivotal role in launching AI-powered features in the company’s flagship application.",
-        "Participated in building the whole CI pipeline for AI microservices including E2E tests"
+        "Designed and implemented key frontend, backend, and DevOps building blocks for the product among Node.js and Python microservices.",
+        "Participated in building the whole CI pipeline for AI microservices including E2E tests. Taught then team to maintain it at a high standard."
       ],
       "technologies": [
         "Node.js",
@@ -86,8 +85,8 @@
       "summary": "Appointed as a Frontend Technical Lead for a new product initiative.",
       "highlights": [
         "Designed the high-level application architecture and coordinated multiple engineering teams.",
-        "Built initial CI/CD pipelines, test frameworks, and infrastructure, enabling faster delivery cycles.",
-        "Provided mentorship and technical guidance to engineers across teams."
+        "Built initial CI/CD pipelines, test frameworks, and infrastructure, enabling faster delivery cycles. Ensured the test coverage kept at a 90% level.",
+        "Provided mentorship and technical guidance to engineers across three frontend teams involved in the project."
       ],
       "technologies": [
         "React",
@@ -108,9 +107,8 @@
       "endDate": "2022-10-01",
       "summary": "As a Technical Lead was involved stablizing and improving the performance of one of the server-side high-load domains.",
       "highlights": [
-        "Assigned to stabilize a backend service domain with failing automation tests.",
-        "Conducted a thorough audit of system architecture, libraries, and build processes.",
-        "Implemented infrastructure fixes, reducing test failures by 30% and improving release reliability."
+        "Assigned to stabilize a backend service domain with failing automation tests. Managed to reduce test failures by 30% and improve release reliability.",
+        "Conducted a thorough audit of system architecture, libraries, and build processes."
       ],
       "technologies": [
         "Node.js",
@@ -131,7 +129,8 @@
       "summary": "Started as a full-stack engineer and promoted to a Technical Lead.",
       "highlights": [
         "As a front-end developer was involved in UI/UX refreshing campaign, which included replacing an obsolete client platform from Angular.js to React.",
-        "Helped to reduce the same bundle bytes size to be 3 times smaller."
+        "Helped to reduce the same bundle bytes size to be 3 times smaller.",
+        "Took an ownership of a team of 3 fron-end enguineers, providing mentorship and technical guidance to them."
       ],
       "technologies": [
         "React",
@@ -290,7 +289,7 @@
   ],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-    "version": "v1.0.4",
+    "version": "v1.0.5",
     "lastModified": "2026-03-23"
   }
 }
