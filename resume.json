@@ -2,10 +2,10 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Alexander Prytula",
-    "label": "Software Engineer",
+    "label": "Staff Software Engineer | Engineering Manager",
     "image": "https://avatars.githubusercontent.com/u/5666255?s=400&u=4671d6fec3abe9e19e54c87efec0f109e33b0529&v=4",
     "email": "isitinme88@gmail.com",
-    "summary": "Quality-focused software engineer. Eager to design and build beautiful, corporate complex systems. A T-shaped guy who easily accepts challenges from either technical or management fields. Always mentoring, helping, and happy to share knowledge and experience. As well as continue to learn and receive from others. Looking for a company and people who are passionate about what they're doing, always willing to shift edges, with exceptional standards to themselves.",
+    "summary": "Quality-focused software engineer and experienced technical lead. Eager to design and build beautiful, corporate complex systems. A T-shaped guy who easily accepts challenges from either technical or management fields. Always mentoring, helping, and happy to share knowledge and experience. As well as continue to learn and receive from others. Looking for a company and people who are passionate about what they're doing, always willing to shift edges, with exceptional standards to themselves.",
     "location": {
       "city": "Kyiv",
       "countryCode": "UA"
