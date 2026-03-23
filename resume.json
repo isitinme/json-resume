@@ -26,15 +26,120 @@
     {
       "name": "Sisense",
       "location": "Kyiv (Ukraine)",
-      "position": "R&D Tech Lead",
+      "description": "Business intelligence software company",
+      "position": "Full-stack engineer",
       "startDate": "2021-03-01",
-      "summary": "Sisense is a business intelligence software company headquartered in New York City. The company develops business intelligence software that allows users to access and analyze big data",
+      "endDate": "2022-05-01",
+      "summary": "Started as a full-stack engineer and promoted to a Technical Lead.",
       "highlights": [
-        "As a front-end developer was involved in UX refreshing campaign, which included replacing an obsolete client platform from Angular.js to React. Designed safe and solid migration flows within it. Helped to reduce the same bundle bytes size to be 3 times smaller.",
-        "As a back-end developer provided enhancements to the Administration business logic components, which basically were tied with almost all entities and functionalities the company has: Users, Emails, Analytics, Plugins, Customer storage, etc.",
-        "Contributed to the core internal packages dealing with MongoDB, RabbitMQ, and Apache Zookeeper. Helped to increase its reliability, code quality, and fixed a few severe bugs.",
-        "Participated in organizing and promoting a technical engineering movement inside the company to collect, estimate and build a roadmap to bridge different technical gaps.",
-        "Assisted team mates as a reviewer and mentor, taking leadership and facilitating team's overall performance."
+        "As a front-end developer was involved in UI/UX refreshing campaign, which included replacing an obsolete client platform from Angular.js to React.",
+        "Helped to reduce the same bundle bytes size to be 3 times smaller."
+      ],
+      "technologies": [
+        "React",
+        "Angular.js",
+        "Typescript",
+        "Webpack",
+        "Sass",
+        "Node.js"
+      ]
+    },
+    {
+      "name": "Sisense",
+      "location": "Kyiv (Ukraine)",
+      "description": "Business intelligence software company",
+      "position": "Technical Lead",
+      "startDate": "2022-05-01",
+      "endDate": "2022-10-01",
+      "summary": "As a Technical Lead was involved stablizing and improving the performance of one of the server-side high-load domains.",
+      "highlights": [
+        "Assigned to stabilize a backend service domain with failing automation tests.",
+        "Conducted a thorough audit of system architecture, libraries, and build processes.",
+        "Implemented infrastructure fixes, reducing test failures by 30% and improving release reliability."
+      ],
+      "technologies": [
+        "Node.js",
+        "Typescript",
+        "Chromium",
+        "Docker",
+        "Kubernetes",
+        "Selenium"
+      ]
+    },
+    {
+      "name": "Sisense",
+      "location": "Kyiv (Ukraine)",
+      "description": "Business intelligence software company",
+      "position": "Technical Lead",
+      "startDate": "2022-10-01",
+      "endDate": "2023-06-01",
+      "summary": "Appointed as a Frontend Technical Lead for a new product initiative.",
+      "highlights": [
+        "Designed the high-level application architecture and coordinated multiple engineering teams.",
+        "Built initial CI/CD pipelines, test frameworks, and infrastructure, enabling faster delivery cycles.",
+        "Provided mentorship and technical guidance to engineers across teams."
+      ],
+      "technologies": [
+        "React",
+        "Typescript",
+        "Vite",
+        "Sass",
+        "Node.js",
+        "Gitlab CI",
+        "Playwright"
+      ]
+    },
+    {
+      "name": "Sisense",
+      "location": "Kyiv (Ukraine)",
+      "description": "Business intelligence software company",
+      "position": "Technical Lead",
+      "startDate": "2023-06-01",
+      "endDate": "2025-09-01",
+      "summary": "Technical Lead in AI domain team",
+      "highlights": [
+        "Worked at the intersection of data science and product engineering, integrating LLM and vector database capabilities.",
+        "Designed and implemented key frontend, backend, and DevOps building blocks for the product.",
+        "Played a pivotal role in launching AI-powered features in the company’s flagship application.",
+        "Participated in building the whole CI pipeline for AI microservices including E2E tests"
+      ],
+      "technologies": [
+        "Node.js",
+        "Python",
+        "Typescript",
+        "Jenkins",
+        "Groovy",
+        "Gitlab CI",
+        "Kubernetes",
+        "MongoDB",
+        "RabbitMQ",
+        "Zookeeper"
+      ]
+    },
+    {
+      "name": "Sisense",
+      "location": "Kyiv (Ukraine)",
+      "description": "Business intelligence software company",
+      "position": "Staff Software Engineer",
+      "startDate": "2025-06-01",
+      "endDate": "2026-01-01",
+      "summary": "Staff Software Engineer in analytics domain team",
+      "highlights": [
+        "Audited the domain most critical problems by inversigating teams' ownership, code quality, and engineers' pain points.",
+        "Wrote a comprehensive report with recommendations for improvements and presented it to the department manager and VP of Engineering.",
+        "Acted as engineering manager as I led cross-team efforts to align on multiple products delivery and compatibility."
+      ],
+      "technologies": [
+        "Node.js",
+        "Python",  
+        "Typescript",
+        "Jenkins",
+        "Groovy",
+        "Gitlab CI",
+        "Kubernetes",
+        "MongoDB",
+        "RabbitMQ",
+        "Zookeeper"
       ]
     },
     {
@@ -171,6 +276,10 @@
     },
     {
       "language": "French",
+      "fluency": "A1"
+    },
+    {
+      "language": "Spanish",
       "fluency": "A1"
     },
     {
