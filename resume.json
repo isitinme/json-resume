@@ -34,6 +34,8 @@
       "highlights": [
         "Audited the domain most critical problems by inversigating teams' ownership, code quality, and engineers' pain points.",
         "Wrote a comprehensive report with recommendations for improvements and presented it to the department manager and VP of Engineering.",
+        "Contributed to and improved CI/CD pipelines and release processes, supporting more stable and efficient product delivery.",
+        "Designed and implemented QA strategy, increasing test coverage and strengthening overall product quality.",
         "Acted as engineering manager as I led cross-team efforts to align on multiple products delivery and compatibility."
       ],
       "technologies": [
@@ -58,6 +60,7 @@
       "endDate": "2025-09-01",
       "summary": "Technical Lead in AI domain team",
       "highlights": [
+        "Recognized as a cross-team technical authority, unblocking stalled development by guiding engineers through system design, trade-offs, and implementation approaches, ensuring timely delivery of key initiatives.",
         "Worked at the intersection of data science and product engineering, integrating LLM and vector database capabilities.",
         "Designed and implemented key frontend, backend, and DevOps building blocks for the product among Node.js and Python microservices.",
         "Participated in building the whole CI pipeline for AI microservices including E2E tests. Taught then team to maintain it at a high standard."
@@ -84,6 +87,8 @@
       "endDate": "2023-06-01",
       "summary": "Appointed as a Frontend Technical Lead for a new product initiative.",
       "highlights": [
+        "Led resolution of high-impact production incidents across multiple domains, particularly in shared UI systems, restoring stability and minimizing business disruption.",
+        "Took ownership of critical issues beyond direct responsibility, acting as a trusted escalation point for engineers and managers during complex delivery and runtime challenges.",
         "Designed the high-level application architecture and coordinated multiple engineering teams.",
         "Built initial CI/CD pipelines, test frameworks, and infrastructure, enabling faster delivery cycles. Ensured the test coverage kept at a 90% level.",
         "Provided mentorship and technical guidance to engineers across three frontend teams involved in the project."
@@ -107,6 +112,8 @@
       "endDate": "2022-10-01",
       "summary": "As a Technical Lead was involved stablizing and improving the performance of one of the server-side high-load domains.",
       "highlights": [
+        "Established and led cross-team technical committees, improving communication, standardization, and engineering decision-making across R&D teams.",
+        "Facilitated delivery processes as a Scrum Master / coordinator, improving team alignment, reducing blockers, and maintaining predictable development cycles.",
         "Assigned to stabilize a backend service domain with failing automation tests. Managed to reduce test failures by 30% and improve release reliability.",
         "Conducted a thorough audit of system architecture, libraries, and build processes."
       ],
