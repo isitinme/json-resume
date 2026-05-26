@@ -32,11 +32,11 @@
       "endDate": "2026-01-01",
       "summary": "Staff Software Engineer in analytics domain team",
       "highlights": [
+        "Coordinated delivery across 4 engineering teams, reducing release blockers and improving deployment predictability",
         "Audited the domain most critical problems by inversigating teams' ownership, code quality, and engineers' pain points.",
         "Wrote a comprehensive report with recommendations for improvements and presented it to the department manager and VP of Engineering.",
         "Contributed to and improved CI/CD pipelines and release processes, supporting more stable and efficient product delivery.",
-        "Designed and implemented QA strategy, increasing test coverage and strengthening overall product quality.",
-        "Acted as engineering manager as I led cross-team efforts to align on multiple products delivery and compatibility."
+        "Designed and implemented QA strategy, increasing test coverage and strengthening overall product quality."
       ],
       "technologies": [
         "Node.js",
