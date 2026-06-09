@@ -1,0 +1,337 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Alexander Prytula",
+    "label": "Engineering Manager",
+    "image": "https://avatars.githubusercontent.com/u/5666255?s=400&u=4671d6fec3abe9e19e54c87efec0f109e33b0529&v=4",
+    "email": "isitinme88@gmail.com",
+    "summary": "Engineering Manager and Technical Leader with experience managing delivery across multiple cross-functional R&D teams. Skilled at aligning technical execution with business objectives, unblocking engineering bottlenecks, and mentoring engineers. Experienced in acting as a Scrum Master, improving deployment predictability, and working closely with VP-level stakeholders to resolve organizational and technical pain points.",
+    "location": {
+      "city": "Kyiv",
+      "countryCode": "UA"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/alexander-prytula-3ba434100/"
+      },
+      {
+        "network": "Github",
+        "username": "isitinme",
+        "url": "https://github.com/isitinme"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Sisense",
+      "location": "Kyiv (Ukraine)",
+      "description": "Business intelligence software company",
+      "position": "Staff Software Engineer",
+      "startDate": "2025-06-01",
+      "endDate": "2026-01-01",
+      "summary": "Staff Software Engineer in analytics domain team, coordinating delivery and organizational improvements across multiple R&D teams.",
+      "highlights": [
+        "Coordinated delivery across 4 engineering teams, reducing release blockers and improving deployment predictability.",
+        "Investigated team ownership, code quality, delivery processes, and engineer pain points to identify the domain's most critical organizational and technical bottlenecks.",
+        "Wrote a comprehensive report with strategic recommendations and presented it directly to the department manager and VP of Engineering.",
+        "Partnered with engineering leadership to align technical execution, release processes, and quality improvements with business goals.",
+        "Designed and implemented a QA strategy that improved test coverage, strengthened release confidence, and clarified team responsibilities."
+      ],
+      "technologies": [
+        "Cross-team Coordination",
+        "Stakeholder Management",
+        "Delivery Management",
+        "Process Optimization",
+        "QA Strategy",
+        "CI/CD",
+        "Kubernetes",
+        "Node.js",
+        "Python"
+      ]
+    },
+    {
+      "name": "Sisense",
+      "location": "Kyiv (Ukraine)",
+      "description": "Business intelligence software company",
+      "position": "Technical Lead",
+      "startDate": "2023-06-01",
+      "endDate": "2025-09-01",
+      "summary": "Technical Lead in AI domain team, guiding engineers through delivery, system design, and product execution.",
+      "highlights": [
+        "Recognized as a cross-team technical authority, unblocking stalled development by guiding engineers through system design, trade-offs, and implementation approaches.",
+        "Coordinated delivery of AI-enabled product capabilities across data science, product engineering, backend, frontend, and DevOps workstreams.",
+        "Mentored engineers on technical decision-making, implementation quality, testing practices, and production readiness.",
+        "Helped build CI/CD pipelines and end-to-end test practices for AI microservices, then coached the team to maintain those standards.",
+        "Worked with product and engineering stakeholders to translate ambiguous AI product needs into practical delivery plans."
+      ],
+      "technologies": [
+        "Technical Leadership",
+        "Mentorship",
+        "Delivery Planning",
+        "Cross-functional Collaboration",
+        "AI Product Delivery",
+        "CI/CD",
+        "Node.js",
+        "Python",
+        "Kubernetes"
+      ]
+    },
+    {
+      "name": "Sisense",
+      "location": "Kyiv (Ukraine)",
+      "description": "Business intelligence software company",
+      "position": "Technical Lead",
+      "startDate": "2022-10-01",
+      "endDate": "2023-06-01",
+      "summary": "Technical Lead for a new product initiative, coordinating multiple teams through complex delivery challenges.",
+      "highlights": [
+        "Coordinated multiple engineering teams during a new product initiative, aligning architecture, delivery plans, and implementation work.",
+        "Provided mentorship and technical guidance to engineers across three frontend teams involved in the project.",
+        "Acted as a trusted escalation point for engineers and managers during complex delivery and runtime challenges.",
+        "Led resolution of high-impact production incidents across shared systems, restoring stability and minimizing business disruption.",
+        "Built initial CI/CD pipelines, test frameworks, and delivery infrastructure, keeping automation coverage near 90%."
+      ],
+      "technologies": [
+        "Team Coordination",
+        "Mentorship",
+        "Incident Leadership",
+        "Delivery Management",
+        "CI/CD",
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Playwright"
+      ]
+    },
+    {
+      "name": "Sisense",
+      "location": "Kyiv (Ukraine)",
+      "description": "Business intelligence software company",
+      "position": "Technical Lead",
+      "startDate": "2022-05-01",
+      "endDate": "2022-10-01",
+      "summary": "Technical Lead and Scrum Master/coordinator for a server-side high-load domain.",
+      "highlights": [
+        "Facilitated delivery processes as a Scrum Master and coordinator, improving team alignment, reducing blockers, and maintaining predictable development cycles.",
+        "Established and led cross-team technical committees to improve communication, standardization, and engineering decision-making across R&D teams.",
+        "Coordinated stabilization of a backend service domain with failing automation tests, reducing test failures by 30% and improving release reliability.",
+        "Conducted an audit of system architecture, libraries, and build processes to clarify improvement areas for engineering leadership."
+      ],
+      "technologies": [
+        "Agile",
+        "Scrum",
+        "Cross-team Committees",
+        "Process Optimization",
+        "Delivery Coordination",
+        "Node.js",
+        "TypeScript",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "name": "Sisense",
+      "location": "Kyiv (Ukraine)",
+      "description": "Business intelligence software company",
+      "position": "Full-stack Engineer",
+      "startDate": "2021-03-01",
+      "endDate": "2022-05-01",
+      "summary": "Started as a full-stack engineer and was promoted to Technical Lead.",
+      "highlights": [
+        "Took ownership of a team of 3 frontend engineers, providing mentorship and technical guidance.",
+        "Supported a UI/UX modernization campaign that replaced an obsolete Angular.js platform with React.",
+        "Helped reduce client bundle size by 3x, improving application performance and delivery efficiency."
+      ],
+      "technologies": [
+        "Mentorship",
+        "Team Ownership",
+        "React",
+        "Angular.js",
+        "TypeScript",
+        "Webpack",
+        "Node.js"
+      ]
+    },
+    {
+      "name": "VistaCreate",
+      "location": "Kyiv (Ukraine), Limassol (Cyprus)",
+      "position": "Senior Software Engineer",
+      "startDate": "2018-09-01",
+      "endDate": "2021-03-01",
+      "summary": "VistaCreate, formerly Crello, is a web-based media editor.",
+      "highlights": [
+        "Delivered end-to-end product features across frontend, backend, and third-party integrations in response to business needs.",
+        "Contributed to payments business logic, including discounts, bonuses, referral programs, affiliates, and subscription plans used in marketing campaigns.",
+        "Took responsibility for the backend search domain, including monitoring and continuous improvement of search strategies.",
+        "Implemented and presented contract testing for microservices, increasing reliability and improving team control over backend integrations."
+      ],
+      "technologies": [
+        "Product Delivery",
+        "Cross-functional Engineering",
+        "Node.js",
+        "Go",
+        "React",
+        "Prometheus",
+        "Grafana",
+        "Contract Testing"
+      ]
+    },
+    {
+      "name": "Carts Guru",
+      "location": "Kyiv (Ukraine), Barcelona (Spain)",
+      "position": "Node.js Engineer",
+      "startDate": "2017-05-01",
+      "endDate": "2018-06-01",
+      "summary": "Marketing automation platform for e-commerce merchants.",
+      "highlights": [
+        "Appointed as Head of the product team in the Europe region.",
+        "Worked on an automated customer onboarding system that helped customers configure business features and prepare tools for use.",
+        "Improved backend code quality through refactoring and expanded unit and integration test coverage.",
+        "Built and maintained a discount system integrated between PHP e-commerce services and Node.js services."
+      ],
+      "technologies": [
+        "Product Team Leadership",
+        "Delivery Ownership",
+        "Node.js",
+        "Elasticsearch",
+        "PHP",
+        "Integration Testing"
+      ]
+    },
+    {
+      "name": "Siteplus Pte Ltd",
+      "location": "Kyiv (Ukraine)",
+      "position": "Node.js Engineer",
+      "startDate": "2017-01-01",
+      "endDate": "2017-06-01",
+      "summary": "Site-builder platform company.",
+      "highlights": [
+        "Collaborated across PHP and Node.js backend teams to build RESTful services for a site-building platform.",
+        "Contributed to service communication patterns using HTTP and WebSocket protocols.",
+        "Integrated Redis caching to improve backend performance."
+      ],
+      "technologies": [
+        "Cross-team Collaboration",
+        "Node.js",
+        "Redis",
+        "REST APIs",
+        "WebSocket",
+        "PHP"
+      ]
+    },
+    {
+      "name": "DepositPhotos",
+      "location": "Kyiv (Ukraine)",
+      "position": "Front-end Developer",
+      "startDate": "2016-08-01",
+      "endDate": "2017-01-01",
+      "summary": "Stock exchange marketplace.",
+      "highlights": [
+        "Participated in building the main business application using Backbone, with gradual migration to React.",
+        "Implemented SEO and marketing-related product improvements."
+      ],
+      "technologies": [
+        "JavaScript",
+        "Backbone",
+        "React"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Zengineers",
+      "position": "Teacher/Mentor",
+      "url": "https://www.facebook.com/zengineers.community",
+      "startDate": "2016-01-01",
+      "endDate": "2016-09-01",
+      "summary": "A community aimed to spread web development studies for free."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Zaporizhzhya National Technical University",
+      "url": "https://zp.edu.ua/",
+      "area": "Materials science engineering",
+      "studyType": "Bachelor",
+      "startDate": "2005-07-01",
+      "endDate": "2009-06-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Engineering Leadership",
+      "keywords": [
+        "Cross-team Coordination",
+        "Delivery Management",
+        "Technical Leadership",
+        "Engineering Strategy",
+        "Stakeholder Management",
+        "VP-level Reporting",
+        "Escalation Management"
+      ]
+    },
+    {
+      "name": "Team Development",
+      "keywords": [
+        "Mentorship",
+        "Career Development",
+        "Team Alignment",
+        "Knowledge Sharing",
+        "Technical Guidance",
+        "Feedback",
+        "Ownership Development"
+      ]
+    },
+    {
+      "name": "Process and Execution",
+      "keywords": [
+        "Agile",
+        "Scrum",
+        "Process Optimization",
+        "Release Planning",
+        "Deployment Predictability",
+        "Incident Coordination",
+        "Quality Strategy",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Technical Background",
+      "keywords": [
+        "Node.js",
+        "TypeScript",
+        "Python",
+        "Go",
+        "React",
+        "Docker",
+        "Kubernetes",
+        "Prometheus",
+        "Grafana"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "B2"
+    },
+    {
+      "language": "French",
+      "fluency": "A1"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "A1"
+    },
+    {
+      "language": "Ukrainian",
+      "fluency": "native speaker"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.5",
+    "lastModified": "2026-06-09"
+  }
+}

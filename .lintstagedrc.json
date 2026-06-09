@@ -1,0 +1,4 @@
+{
+    "*.json": "npm run validate:all",
+    "*.{js,ts}": "npm run pretty:write"
+}

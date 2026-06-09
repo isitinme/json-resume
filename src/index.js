@@ -5,8 +5,6 @@ import puppeteer from "puppeteer"
 import { render } from "resumed"
 import "@dotenvx/dotenvx/config"
 
-console.log(import.meta.dirname)
-
 process
   .on("uncaughtException", (err) => {
     console.error("uncaughtException", err)
