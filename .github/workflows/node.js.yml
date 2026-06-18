@@ -10,7 +10,7 @@ on:
     branches: ["main"]
 
 jobs:
-  build:
+  audit:
     runs-on: ubuntu-latest
 
     strategy:
@@ -24,11 +24,44 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
           cache: "npm"
-      - name: Install dependencies
+      - &install-dependencies
+        name: Install dependencies
         run: npm ci
       - name: Audit dependencies
         run: npm audit
+
+  format:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [25.x]
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: "npm"
+      - *install-dependencies
       - name: Check formatting
         run: npm run pretty:check
+
+  validate:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [25.x]
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: "npm"
+      - *install-dependencies
       - name: Validate schemas
         run: npm run validate:all
