@@ -2,6 +2,7 @@
 
 ## TL;DR;
 ```
-FILE_NAME=resume npm run pdf
-ls dist # resume.pdf
+FILE_NAME=resume npm start
+
+open dist/resume.pdf
 ```

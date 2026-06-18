@@ -16,7 +16,7 @@ process
   })
 
 /**
- * FILE_NAME: one of the given json files in src directory
+ * FILE_NAME: one of the given json files in src/schemas directory
  * e.g.:
  * FILE_NAME=resume
  */
@@ -25,7 +25,11 @@ if (!FILE_NAME) {
   throw new Error(`FILE_NAME must be set to environment. Given: ${FILE_NAME}`)
 }
 
-const sourceFileNamePath = path.join(import.meta.dirname, `${FILE_NAME}.json`)
+const sourceFileNamePath = path.join(
+  import.meta.dirname,
+  "schemas",
+  `${FILE_NAME}.json`
+)
 const distDir = path.join(import.meta.dirname, "..", "dist")
 const outputFileName = `${FILE_NAME}.pdf`
 const outputPath = path.join(distDir, outputFileName)

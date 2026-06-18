@@ -9,7 +9,7 @@
   },
   "packageManager": "npm@11.7.0",
   "scripts": {
-    "pdf": "node src/index.js",
+    "start": "node src/index.js",
     "validate:all": "node src/validate.js",
     "pretty:check": "prettier --check",
     "pretty:write": "prettier --write",
