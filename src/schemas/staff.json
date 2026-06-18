@@ -215,13 +215,7 @@
         "Contributed to service communication patterns using HTTP and WebSocket protocols.",
         "Integrated Redis caching to improve backend performance."
       ],
-      "technologies": [
-        "Node.js",
-        "Redis",
-        "REST APIs",
-        "WebSocket",
-        "PHP"
-      ]
+      "technologies": ["Node.js", "Redis", "REST APIs", "WebSocket", "PHP"]
     },
     {
       "name": "DepositPhotos",
@@ -234,11 +228,7 @@
         "Participated in building the main business application using Backbone, with gradual migration to React.",
         "Implemented SEO and marketing-related product improvements."
       ],
-      "technologies": [
-        "JavaScript",
-        "Backbone",
-        "React"
-      ]
+      "technologies": ["JavaScript", "Backbone", "React"]
     }
   ],
   "volunteer": [

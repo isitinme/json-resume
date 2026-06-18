@@ -1,6 +1,5 @@
 import { glob } from "glob"
 import { validate } from "resumed"
-
 ;(async () => {
   try {
     const files = await glob(`${import.meta.dirname}/*.json`)

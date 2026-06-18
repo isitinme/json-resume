@@ -11,8 +11,8 @@
   "scripts": {
     "start": "node src/index.js",
     "validate:all": "node src/validate.js",
-    "pretty:check": "prettier --check",
-    "pretty:write": "prettier --write",
+    "pretty:check": "prettier --check .",
+    "pretty:write": "prettier --write .",
     "prepare": "husky || true"
   },
   "dependencies": {
