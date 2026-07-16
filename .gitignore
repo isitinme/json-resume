@@ -2,3 +2,5 @@ node_modules
 *.html
 *.pdf
 .DS_Store
+.env
+dist
