@@ -1,0 +1,330 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Alexander Prytula",
+    "label": "Distributed Systems Engineer | Technical Lead",
+    "image": "https://avatars.githubusercontent.com/u/5666255?s=400&u=4671d6fec3abe9e19e54c87efec0f109e33b0529&v=4",
+    "email": "isitinme88@gmail.com",
+    "summary": "Distributed systems engineer with 8+ years building and owning backend platforms in Node.js, Python, and Go, mostly on AWS. Combines hands-on system design with direct ownership of architecture, reliability, and delivery outcomes, across B2B and B2C SaaS products. Works as closely with product, marketing, and leadership as with engineering, and it shows in how technical decisions get made. Full-stack background rounds out the toolkit, with the main focus on backend and distributed systems.",
+    "location": {
+      "city": "Kyiv",
+      "countryCode": "UA"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/alexander-prytula-3ba434100/"
+      },
+      {
+        "network": "Github",
+        "username": "isitinme",
+        "url": "https://github.com/isitinme"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Sisense",
+      "location": "Kyiv (Ukraine)",
+      "description": "B2B SaaS business intelligence platform",
+      "position": "Staff Software Engineer",
+      "startDate": "2025-06-01",
+      "endDate": "2026-01-01",
+      "summary": "Staff Software Engineer owning technical health of the analytics domain.",
+      "highlights": [
+        "Took ownership of the analytics domain's technical health across 4 engineering teams, auditing service ownership, code quality, and reliability gaps.",
+        "Wrote and presented a report on domain risks and improvement priorities to department leadership and the VP of Engineering.",
+        "Coordinated delivery across teams, cutting release blockers and improving deployment predictability.",
+        "Improved CI/CD and release processes for Node.js and Python services.",
+        "Built out a QA strategy for the domain, raising test coverage and reliability."
+      ],
+      "technologies": [
+        "Node.js",
+        "Python",
+        "TypeScript",
+        "AWS",
+        "Kubernetes",
+        "MongoDB",
+        "RabbitMQ",
+        "Zookeeper",
+        "Jenkins",
+        "Groovy",
+        "GitLab CI"
+      ]
+    },
+    {
+      "name": "Sisense",
+      "location": "Kyiv (Ukraine)",
+      "description": "B2B SaaS business intelligence platform",
+      "position": "Technical Lead",
+      "startDate": "2023-06-01",
+      "endDate": "2025-09-01",
+      "summary": "Technical Lead owning architecture and delivery for a distributed AI microservice domain.",
+      "highlights": [
+        "Ran architecture and delivery for a distributed AI domain across Node.js and Python microservices, integrating LLM and vector-database capabilities into the product.",
+        "Became the go-to technical authority for the group, unblocking teams on system design and implementation trade-offs.",
+        "Sat at the intersection of data science and product engineering, turning research prototypes into production services.",
+        "Built the CI pipeline for AI microservices, including E2E tests, and made it the team's standard."
+      ],
+      "technologies": [
+        "Node.js",
+        "Python",
+        "TypeScript",
+        "LLM Integrations",
+        "Vector Databases",
+        "AWS",
+        "Kubernetes",
+        "MongoDB",
+        "RabbitMQ",
+        "Zookeeper",
+        "Jenkins",
+        "Groovy",
+        "GitLab CI"
+      ]
+    },
+    {
+      "name": "Sisense",
+      "location": "Kyiv (Ukraine)",
+      "description": "B2B SaaS business intelligence platform",
+      "position": "Technical Lead",
+      "startDate": "2022-10-01",
+      "endDate": "2023-06-01",
+      "summary": "Technical Lead for a new product initiative, owning architecture and cross-team delivery.",
+      "highlights": [
+        "Designed the system architecture and coordinated delivery across multiple engineering teams for a new product initiative.",
+        "Led resolution of high-impact production incidents on shared systems, keeping business disruption to a minimum.",
+        "Became the go-to escalation point for hard delivery and runtime problems spanning frontend and backend.",
+        "Built the initial CI/CD pipeline and test framework, holding coverage near 90%.",
+        "Mentored engineers across three teams on architecture and delivery."
+      ],
+      "technologies": [
+        "TypeScript",
+        "Node.js",
+        "React",
+        "Vite",
+        "Sass",
+        "GitLab CI",
+        "Playwright"
+      ]
+    },
+    {
+      "name": "Sisense",
+      "location": "Kyiv (Ukraine)",
+      "description": "B2B SaaS business intelligence platform",
+      "position": "Technical Lead",
+      "startDate": "2022-05-01",
+      "endDate": "2022-10-01",
+      "summary": "Technical Lead stabilizing and owning a high-load backend service domain.",
+      "highlights": [
+        "Took over a high-load backend domain and audited its architecture, libraries, and build process to find reliability risks.",
+        "Fixed failing automation, cutting test failures 30% and improving release reliability.",
+        "Started cross-team technical committees that standardized engineering decisions across R&D.",
+        "Ran delivery as Scrum Master, improving alignment and predictability of release cycles."
+      ],
+      "technologies": [
+        "Node.js",
+        "TypeScript",
+        "Chromium",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Selenium"
+      ]
+    },
+    {
+      "name": "Sisense",
+      "location": "Kyiv (Ukraine)",
+      "description": "B2B SaaS business intelligence platform",
+      "position": "Full-stack Engineer",
+      "startDate": "2021-03-01",
+      "endDate": "2022-05-01",
+      "summary": "Started as a full-stack engineer and was promoted to Technical Lead within a year.",
+      "highlights": [
+        "Led a 3-engineer team through a major platform modernization, mentoring on both technical and delivery practices.",
+        "Contributed to the Angular.js-to-React migration and backend work in Node.js, helping cut client bundle size 3x."
+      ],
+      "technologies": [
+        "Node.js",
+        "TypeScript",
+        "React",
+        "Angular.js",
+        "Webpack",
+        "Sass"
+      ]
+    },
+    {
+      "name": "VistaCreate",
+      "location": "Kyiv (Ukraine), Limassol (Cyprus)",
+      "position": "Senior Software Engineer",
+      "startDate": "2018-09-01",
+      "endDate": "2021-03-01",
+      "summary": "VistaCreate (formerly Crello) is a B2C SaaS web-based media editor.",
+      "highlights": [
+        "Owned the backend search domain (build, maintenance, and monitoring) for a high-traffic media editor.",
+        "Worked directly with marketing on payments logic (discounts, bonuses, referrals, affiliates, subscriptions) behind several successful campaigns, with a measurable lift in conversion.",
+        "Wired search into Prometheus/Grafana analytics to track and improve search effectiveness over time.",
+        "Built distributed services in Node.js and Go against third-party APIs, adding contract testing across service boundaries.",
+        "Picked up full-stack features end to end (React to Node.js) when the business needed one owner."
+      ],
+      "technologies": [
+        "Node.js",
+        "Go",
+        "TypeScript",
+        "AWS",
+        "Elasticsearch",
+        "Prometheus",
+        "Grafana",
+        "Third-Party APIs",
+        "React"
+      ]
+    },
+    {
+      "name": "Carts Guru",
+      "location": "Kyiv (Ukraine), Barcelona (Spain)",
+      "position": "Node.js Engineer",
+      "startDate": "2017-06-01",
+      "endDate": "2018-06-01",
+      "summary": "A B2B SaaS platform giving e-merchants one simple place to create, distribute, and analyze first-class marketing campaigns that boost revenue fast.",
+      "highlights": [
+        "Rebuilt an automated customer-onboarding system, refactoring backend services and raising code quality.",
+        "Migrated all searchable entities across major Elasticsearch versions with full unit and integration test coverage.",
+        "Built and maintained a discount system bridging PHP e-commerce and Node.js.",
+        "Headed the product team for the Europe region, working directly with the business on product direction."
+      ],
+      "technologies": [
+        "Node.js",
+        "Elasticsearch",
+        "PHP",
+        "REST APIs",
+        "Integration Testing"
+      ]
+    },
+    {
+      "name": "Siteplus Pte Ltd",
+      "location": "Kyiv (Ukraine)",
+      "position": "Node.js Engineer",
+      "startDate": "2017-01-01",
+      "endDate": "2017-06-01",
+      "summary": "A B2C SaaS site-builder platform for freelancers.",
+      "highlights": [
+        "Collaborated across PHP and Node.js backend teams to build RESTful services for a site-building platform.",
+        "Established service-to-service communication patterns using HTTP and WebSocket protocols.",
+        "Integrated Redis caching to improve backend performance."
+      ],
+      "technologies": ["Node.js", "Redis", "REST APIs", "WebSocket", "PHP"]
+    },
+    {
+      "name": "DepositPhotos",
+      "location": "Kyiv (Ukraine)",
+      "position": "Front-end Developer",
+      "startDate": "2016-08-01",
+      "endDate": "2017-01-01",
+      "summary": "B2C stock photo marketplace",
+      "highlights": [
+        "Contributed to the main business application (Backbone, migrating to React) and supported SEO/marketing-driven product requirements."
+      ],
+      "technologies": ["JavaScript", "Backbone", "React"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Zengineers",
+      "position": "Teacher/Mentor",
+      "url": "https://www.facebook.com/zengineers.community",
+      "startDate": "2016-01-01",
+      "endDate": "2016-09-01",
+      "summary": "A community aimed at spreading web development knowledge for free."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Zaporizhzhya National Technical University",
+      "url": "https://zp.edu.ua/",
+      "area": "Materials science engineering",
+      "studyType": "Bachelor",
+      "startDate": "2005-07-01",
+      "endDate": "2009-06-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Distributed Systems & Backend",
+      "keywords": [
+        "Node.js",
+        "Go",
+        "Python",
+        "TypeScript",
+        "Microservices",
+        "REST APIs",
+        "WebSocket",
+        "Contract Testing",
+        "Message Queues (RabbitMQ)",
+        "Zookeeper"
+      ]
+    },
+    {
+      "name": "Data & AI Integration",
+      "keywords": [
+        "LLM Integrations",
+        "Vector Databases",
+        "MongoDB",
+        "Elasticsearch",
+        "Redis",
+        "Couchbase"
+      ]
+    },
+    {
+      "name": "Cloud & Infrastructure",
+      "keywords": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Helm",
+        "GitLab CI",
+        "Jenkins",
+        "Groovy",
+        "Prometheus",
+        "Grafana",
+        "OpenTelemetry",
+        "Kibana"
+      ]
+    },
+    {
+      "name": "Technical Leadership",
+      "keywords": [
+        "Domain Ownership",
+        "Technical Strategy",
+        "Architecture Audits",
+        "Incident Response",
+        "Mentorship"
+      ]
+    },
+    {
+      "name": "Front-end (secondary)",
+      "keywords": ["React", "Redux", "Vue", "Angular.js", "Vite", "Webpack", "Sass"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "B2"
+    },
+    {
+      "language": "French",
+      "fluency": "A1"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "A1"
+    },
+    {
+      "language": "Ukrainian",
+      "fluency": "native speaker"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.5",
+    "lastModified": "2026-08-17"
+  }
+}
