@@ -70,12 +70,16 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "",
-      "url": "",
-      "area": "",
-      "studyType": "",
-      "startDate": "",
-      "endDate": ""
+      "institution": "Children's Art School, Zaporizhzhya",
+      "area": "Painting and Fine Art",
+      "startDate": "2002",
+      "endDate": "2008",
+      "courses": [
+        "Painting Fundamentals",
+        "Drawing",
+        "Color Theory",
+        "Art History"
+      ]
     }
   ],
   "skills": [
@@ -106,12 +110,31 @@
         "Brand Partnerships",
         "Campaign Planning"
       ]
+    },
+    {
+      "name": "Fine Art",
+      "keywords": [
+        "Painting",
+        "Drawing",
+        "Color Theory",
+        "Composition"
+      ]
     }
   ],
   "languages": [
     {
       "language": "",
       "fluency": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Painting",
+      "keywords": [
+        "Personal Practice",
+        "Exhibited in Kyiv",
+        "Exhibited in Milan"
+      ]
     }
   ],
   "meta": {
