@@ -1,0 +1,102 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Alina Prytula",
+    "label": "Content Creator",
+    "image": "https://raw.githubusercontent.com/isitinme/json-resume/main/assets/alina.jpeg",
+    "email": "alin.razzz@gmail.com",
+    "phone": "+380663040526",
+    "summary": "Content creator with experience producing engaging video, photo, and written content across social platforms. Skilled in scripting, filming, editing, and audience growth, with a strong sense of brand voice and storytelling.",
+    "location": {
+      "city": "Kyiv",
+      "countryCode": "UA"
+    },
+    "profiles": [
+      {
+        "network": "Instagram",
+        "username": "raaazzy_raaazz",
+        "url": "https://www.instagram.com/raaazzy_raaazz/"
+      },
+      {
+        "network": "Telegram",
+        "username": "@razzy_razz"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company / Channel Name",
+      "location": "City, Country",
+      "description": "Brief description of the company or channel",
+      "position": "Content Creator",
+      "startDate": "2024-01-01",
+      "endDate": "",
+      "summary": "One-line summary of the role and focus area.",
+      "highlights": [
+        "Produced and published regular content across [platforms], growing audience engagement.",
+        "Planned and executed content calendars aligned with brand and campaign goals.",
+        "Collaborated with designers, editors, and marketing teams to deliver on-brand content.",
+        "Analyzed content performance metrics to refine format, timing, and topics."
+      ],
+      "technologies": [
+        "Adobe Premiere Pro",
+        "Adobe Photoshop",
+        "Canva",
+        "CapCut",
+        "Content Scheduling Tools"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Content Production",
+      "keywords": [
+        "Video Editing",
+        "Photography",
+        "Scriptwriting",
+        "Storytelling",
+        "Copywriting"
+      ]
+    },
+    {
+      "name": "Platforms",
+      "keywords": [
+        "Instagram",
+        "YouTube",
+        "TikTok",
+        "Content Scheduling"
+      ]
+    },
+    {
+      "name": "Growth & Strategy",
+      "keywords": [
+        "Audience Growth",
+        "Analytics",
+        "Brand Partnerships",
+        "Campaign Planning"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "",
+      "fluency": ""
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.5",
+    "lastModified": "2026-08-25"
+  }
+}
