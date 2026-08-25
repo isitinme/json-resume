@@ -301,7 +301,15 @@
     },
     {
       "name": "Front-end (secondary)",
-      "keywords": ["React", "Redux", "Vue", "Angular.js", "Vite", "Webpack", "Sass"]
+      "keywords": [
+        "React",
+        "Redux",
+        "Vue",
+        "Angular.js",
+        "Vite",
+        "Webpack",
+        "Sass"
+      ]
     }
   ],
   "languages": [
