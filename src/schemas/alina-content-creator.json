@@ -25,20 +25,22 @@
   },
   "work": [
     {
-      "name": "Company / Channel Name",
-      "location": "City, Country",
-      "description": "Brief description of the company or channel",
+      "name": "FoxCool",
+      "location": "Kyiv (Nivki), Ukraine",
+      "description": "Private kindergarten for children ages 2+, built around a caring, playing, and developing philosophy",
       "position": "Content Creator",
       "startDate": "2024-01-01",
       "endDate": "",
-      "summary": "One-line summary of the role and focus area.",
+      "summary": "Content creator for a private kindergarten's Instagram, documenting daily activities and building trust with prospective families through warm, story-driven content.",
       "highlights": [
-        "Produced and published regular content across [platforms], growing audience engagement.",
-        "Planned and executed content calendars aligned with brand and campaign goals.",
-        "Collaborated with designers, editors, and marketing teams to deliver on-brand content.",
-        "Analyzed content performance metrics to refine format, timing, and topics."
+        "Filmed and edited short-form video and photo content covering culinary lessons, music and movement classes, outdoor walks, and creative arts and crafts sessions.",
+        "Directed and shot parent testimonials to build trust and authenticity with prospective families.",
+        "Developed the account's visual identity and storytelling style around the kindergarten's fox mascot and its caring, playing, developing philosophy.",
+        "Planned a recurring content calendar aligned with the kindergarten's weekly activities and educational programming.",
+        "Worked closely with teachers and caregivers on-site to capture genuine, in-the-moment content without disrupting class activities."
       ],
       "technologies": [
+        "Instagram",
         "Adobe Premiere Pro",
         "Adobe Photoshop",
         "Canva",
