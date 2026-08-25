@@ -27,10 +27,10 @@
     {
       "name": "FoxCool",
       "location": "Kyiv (Nivki), Ukraine",
+      "url": "https://www.instagram.com/foxcool2.6/",
       "description": "Private kindergarten for children ages 2+, built around a caring, playing, and developing philosophy",
       "position": "Content Creator",
       "startDate": "2024-01-01",
-      "endDate": "",
       "summary": "Content creator for a private kindergarten's Instagram, documenting daily activities and building trust with prospective families through warm, story-driven content.",
       "highlights": [
         "Filmed and edited short-form video and photo content covering culinary lessons, music and movement classes, outdoor walks, and creative arts and crafts sessions.",
@@ -41,11 +41,29 @@
       ],
       "technologies": [
         "Instagram",
-        "Adobe Premiere Pro",
-        "Adobe Photoshop",
-        "Canva",
-        "CapCut",
-        "Content Scheduling Tools"
+        "Figma",
+        "Canva"
+      ]
+    },
+    {
+      "name": "Norway Butikk",
+      "location": "Kyiv, Ukraine",
+      "url": "https://www.instagram.com/norway_butikk_/",
+      "description": "Volunteer-run charity project selling vintage home decor sourced from Norway in Ukraine, donating 100% of proceeds to Ukrainian military needs",
+      "position": "Content Creator",
+      "startDate": "2023-10-01",
+      "endDate": "2025-10-01",
+      "summary": "Content creator and community manager for a charity resale project, turning secondhand vintage finds from Norway into sales that funded the Ukrainian military.",
+      "highlights": [
+        "Wrote and published all product copy and captions for the account, turning secondhand vintage finds into compelling listings.",
+        "Created Instagram Stories covering incoming inventory, sales, and charity updates to keep the supporter base engaged.",
+        "Managed customer communications, answering inquiries and coordinating sales through Instagram DMs and comments.",
+        "Represented the project at offline charity events and markets in Kyiv, selling products directly to raise funds.",
+        "Supported a fully volunteer-run operation that donated 100% of proceeds to Ukrainian military needs."
+      ],
+      "technologies": [
+        "Instagram",
+        "Canva"
       ]
     }
   ],
