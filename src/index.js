@@ -1,6 +1,5 @@
 import path from "node:path"
 import { readFile } from "node:fs/promises"
-import * as theme from "jsonresume-theme-even"
 import puppeteer from "puppeteer"
 import { render } from "resumed"
 import "@dotenvx/dotenvx/config"
@@ -24,6 +23,18 @@ const FILE_NAME = process.env.FILE_NAME
 if (!FILE_NAME) {
   throw new Error(`FILE_NAME must be set to environment. Given: ${FILE_NAME}`)
 }
+
+/**
+ * THEME: short name of an installed jsonresume-theme-* package
+ * e.g.:
+ * THEME=elegant-pink
+ * Defaults to "even"
+ */
+const THEME = process.env.THEME || "even"
+const themePackage = `jsonresume-theme-${THEME}`
+const theme = await import(themePackage).catch(
+  () => import(`${themePackage}/dist`)
+)
 
 const sourceFileNamePath = path.join(
   import.meta.dirname,

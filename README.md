@@ -7,3 +7,12 @@ FILE_NAME=resume npm start
 
 open dist/resume.pdf
 ```
+
+## Themes
+
+Rendering uses the `jsonresume-theme-even` theme by default. To use a different installed
+`jsonresume-theme-*` package, pass its short name via `THEME`:
+
+```
+FILE_NAME=resume THEME=elegant-pink npm start
+```
