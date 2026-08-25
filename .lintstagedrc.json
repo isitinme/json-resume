@@ -1,4 +1,4 @@
 {
   "*.json": "npm run validate:all",
-  "*.{js,ts}": "npm run pretty:write"
+  "*.{js,ts}": ["npm run pretty:write", "bash -c 'npm run typecheck'"]
 }

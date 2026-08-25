@@ -46,7 +46,7 @@ const outputFileName = `${FILE_NAME}.pdf`
 const outputPath = path.join(distDir, outputFileName)
 
 ;(async () => {
-  let browser
+  let browser: Awaited<ReturnType<typeof puppeteer.launch>> | undefined
 
   try {
     const resumeFile = await readFile(sourceFileNamePath, "utf-8")
@@ -56,7 +56,11 @@ const outputPath = path.join(distDir, outputFileName)
     browser = await puppeteer.launch({ headless: true })
     const page = await browser.newPage()
 
-    await page.setContent(html, { waitUntil: "networkidle0" })
+    // puppeteer's types exclude "networkidle0" from setContent's waitUntil
+    // union, but it's accepted and honored at runtime.
+    await page.setContent(html, {
+      waitUntil: "networkidle0" as "load" | "domcontentloaded",
+    })
     await page.pdf({
       path: outputPath,
       format: "a4",
