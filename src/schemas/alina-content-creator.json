@@ -39,11 +39,7 @@
         "Planned a recurring content calendar aligned with the kindergarten's weekly activities and educational programming.",
         "Worked closely with teachers and caregivers on-site to capture genuine, in-the-moment content without disrupting class activities."
       ],
-      "technologies": [
-        "Instagram",
-        "Figma",
-        "Canva"
-      ]
+      "technologies": ["Instagram", "Figma", "Canva"]
     },
     {
       "name": "Norway Butikk",
@@ -61,10 +57,7 @@
         "Represented the project at offline charity events and markets in Kyiv, selling products directly to raise funds.",
         "Supported a fully volunteer-run operation that donated 100% of proceeds to Ukrainian military needs."
       ],
-      "technologies": [
-        "Instagram",
-        "Canva"
-      ]
+      "technologies": ["Instagram", "Canva"]
     }
   ],
   "volunteer": [],
@@ -79,6 +72,17 @@
         "Drawing",
         "Color Theory",
         "Art History"
+      ]
+    },
+    {
+      "institution": "Creative Writing Intensive, Normandy (France)",
+      "area": "Creative Writing",
+      "startDate": "2022-09",
+      "endDate": "2022-11",
+      "courses": [
+        "Small-group intensive for women, led by two established Ukrainian writers",
+        "[Irena Karpa](https://www.instagram.com/qarpa/) — Ukrainian author",
+        "[Tais Zolotkovska](https://www.instagram.com/tais.zolotkovska/) — Ukrainian author and writing mentor"
       ]
     }
   ],
@@ -95,12 +99,7 @@
     },
     {
       "name": "Platforms",
-      "keywords": [
-        "Instagram",
-        "YouTube",
-        "TikTok",
-        "Content Scheduling"
-      ]
+      "keywords": ["Instagram", "YouTube", "TikTok", "Content Scheduling"]
     },
     {
       "name": "Growth & Strategy",
@@ -113,12 +112,7 @@
     },
     {
       "name": "Fine Art",
-      "keywords": [
-        "Painting",
-        "Drawing",
-        "Color Theory",
-        "Composition"
-      ]
+      "keywords": ["Painting", "Drawing", "Color Theory", "Composition"]
     }
   ],
   "languages": [
