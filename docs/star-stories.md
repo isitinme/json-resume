@@ -60,3 +60,25 @@ platform.
 | **Task** | Take ownership of the domain, find the root causes of the instability, and restore release reliability — while also improving how engineering decisions got made across teams. |
 | **Action** | Investigated backend performance, architecture, libraries, and build processes to isolate reliability and maintainability gaps. Fixed the failing automation. Established cross-team technical committees to standardize engineering decision-making across R&D. Ran delivery as Scrum Master to improve team alignment. |
 | **Result** | Cut test failures by 30% and improved release reliability. The cross-team technical committees became a lasting mechanism for standardizing engineering decisions beyond this one domain. |
+
+---
+
+## Draft notes — extended technical ownership (not yet formed into STAR, elaborate later)
+
+Raw material for broadening what "technical ownership" covers across the stories above.
+Not mapped to a specific role/timeframe yet — needs to be reconciled against which of the
+4 roles each piece actually happened in before it becomes a proper STAR entry.
+
+- **Dependency and layer cleanup**: audited application dependencies, purged ones that
+  were either redundant or vulnerable, refactored as a result. Cleaned up the application
+  layers — API, controllers, services, outgoing ports, utils — and infra-facing wrapper
+  libraries (RabbitMQ, Zookeeper, etc.).
+- **CI pipeline rebuild**: rebuilt the CI pipeline from scratch. Usually paired with
+  integrating test libraries and making them runnable both locally (docker-compose) and
+  in GitLab CI services, then teaching that workflow to both the home team and peer teams.
+- **Environment portability**: made the app "environment-ignorant" — runnable outside
+  production. Covers dotenv-style libraries, env-to-settings interpolation across
+  different app layers, and resolving config across those layers.
+- **Sync → async request flow investigation**: investigated request flows to identify
+  which ones warranted converting from sync to async (RabbitMQ), driven by problems like
+  long-hanging socket connections.
